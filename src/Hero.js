@@ -1,4 +1,4 @@
-import Grid from "./photo-grid"
+import Grid from "./photo-grid.png"
 
 function Hero (){
     return(
@@ -14,3 +14,5 @@ function Hero (){
     )
 
 }
+
+export default Hero
