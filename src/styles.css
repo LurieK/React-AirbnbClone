@@ -27,18 +27,33 @@ body {
 }
 
 .grid {
-  width: 500px;
+  width: 400px;
   margin: 26px 70px
+}
+
+.hero-text{
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: left;
+  margin-left: 36px;
+ 
 }
 
 .hero-text h1 {
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
   font-size: 36px;
+  margin-bottom: 16px;
+  margin-right: 167px;
+  width: 347px;
 }
 
 .hero-text h3 {
   font-family: Poppins;
   font-size: 16px;
   font-weight: 300;
+  width: 320px;
+  
 }
