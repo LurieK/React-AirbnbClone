@@ -22,5 +22,7 @@ body {
 }
 
 .grid {
-  width: 200px;
+  width: 500px;
+  margin: 26px 70px
 }
+
