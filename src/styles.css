@@ -28,6 +28,7 @@ body {
 
 .grid {
   width: 400px;
+  align-self: center;
   margin: 26px 70px
 }
 
