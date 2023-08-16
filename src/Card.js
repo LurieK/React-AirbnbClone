@@ -1,6 +1,6 @@
 import Katie from "./img/Katie_Zaferes.png";
 import Star from "./img/Star 1.png";
-
+I'm just testing something 
 function Card(){
     return (
         <section className="cards">
