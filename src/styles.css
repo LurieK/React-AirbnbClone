@@ -60,7 +60,9 @@ body {
 }
 
 .cards{
-  
+  display:flex;
+  justify-content: flex-start;
+  flex-flow: column;
 }
 
 .card-image{
@@ -71,11 +73,19 @@ body {
 .card-info{
   display: flex;
   flex-flow: column;
+  display: flex;
+  align-items: flex-start;
 
 }
 
 .star{
  display:flex;
  flex-flow: row;
+ align-items: center;
  
+}
+
+.star-img{
+  width: 14px;
+  height: 14px;
 }
