@@ -58,3 +58,24 @@ body {
   width: 320px;
   
 }
+
+.cards{
+  
+}
+
+.card-image{
+  height: 235px;
+  width: 176px;
+}
+
+.card-info{
+  display: flex;
+  flex-flow: column;
+
+}
+
+.star{
+ display:flex;
+ flex-flow: row;
+ 
+}
