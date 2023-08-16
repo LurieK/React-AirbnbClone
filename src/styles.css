@@ -60,8 +60,7 @@ body {
 }
 
 .cards{
-  margin-top: 49px;
-  margin-left: 47px;
+  margin: 49px 20px 30px 47px;
   font-family: Poppins;
   font-size: 12px;
   display:flex;
@@ -72,6 +71,9 @@ body {
 .card-image{
   height: 235px;
   width: 176px;
+  margin-bottom: 5px;
+  border-radius: 9px;
+  object-fit: cover;
 }
 
 .card-info{
@@ -87,6 +89,7 @@ body {
  display:flex;
  flex-flow: row;
  align-items: center;
+ line-height: 2;
  
 }
 
