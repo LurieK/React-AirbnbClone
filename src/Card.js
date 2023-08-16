@@ -10,11 +10,11 @@ function Card(){
                 <div className="star">
                     <img className="star-img" src={Star}/>
                     <span>5.0</span>
-                    <span>(6) • </span>
-                    <span>USA</span>
+                    <span class="gray">(6) • </span>
+                    <span class="gray">USA</span>
                 </div>
                 <p>Life lessons with Katie Zaferes</p>
-                <p><strong>From $136</strong> / person</p>
+                <p><span className="bold">From $136</span> / person</p>
             </div>
         </section>
 

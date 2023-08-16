@@ -93,6 +93,14 @@ body {
  
 }
 
+.gray {
+  color: #918E9B; 
+}
+
+.bold {
+  font-weight: 600;
+}
+
 .star-img{
   width: 14px;
   height: 14px;
