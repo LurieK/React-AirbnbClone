@@ -1,20 +1,20 @@
-import Katie from "./img/Katie_Zaferes.png";
+
 import Star from "./img/Star 1.png";
-I'm just testing something 
-function Card(){
+ 
+function Card(props){
     return (
         <section className="cards">
-            <img className='card-image' src={Katie}/>
+            <img className='card-image' src={props.img}/>
             
             <div className="card-info">
                 <div className="star">
                     <img className="star-img" src={Star}/>
-                    <span>5.0</span>
-                    <span class="gray">(6) • </span>
-                    <span class="gray">USA</span>
+                    <span>{props.rating} </span>
+                    <span class="gray"> ({props.reviewCount}) • </span>
+                    <span class="gray">{props.country}</span>
                 </div>
-                <p>Life lessons with Katie Zaferes</p>
-                <p><span className="bold">From $136</span> / person</p>
+                <p>{props.title}</p>
+                <p><span className="bold">From ${props.price}</span> / person</p>
             </div>
         </section>
 
