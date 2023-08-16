@@ -9,10 +9,12 @@ function Card(){
             <div className="card-info">
                 <div className="star">
                     <img className="star-img" src={Star}/>
-                    <p>5.0(6)-USA</p>
+                    <p> 5.0 (6) </p>
+                    {/* <img /> */}
+                    <p>- USA</p>
                 </div>
                 <p>Life lessons with Katie Zaferes</p>
-                <p>From $136 / person</p>
+                <p><strong>From $136</strong> / person</p>
             </div>
         </section>
 

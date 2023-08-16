@@ -60,6 +60,10 @@ body {
 }
 
 .cards{
+  margin-top: 49px;
+  margin-left: 47px;
+  font-family: Poppins;
+  font-size: 12px;
   display:flex;
   justify-content: flex-start;
   flex-flow: column;
@@ -75,6 +79,7 @@ body {
   flex-flow: column;
   display: flex;
   align-items: flex-start;
+  line-height: 0;
 
 }
 
@@ -88,4 +93,5 @@ body {
 .star-img{
   width: 14px;
   height: 14px;
+  margin-right: 2px;
 }
