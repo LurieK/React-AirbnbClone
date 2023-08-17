@@ -59,6 +59,11 @@ body {
   
 }
 
+.cards-section{
+  display: flex;
+  flex-flow: row;
+}
+
 .cards{
   margin: 49px 20px 30px 47px;
   font-family: Poppins;
