@@ -4,8 +4,9 @@ import Star from "./img/Star 1.png";
 function Card(props){
     return (
         <section className="cards">
+            <div className="card-badge">SOLD OUT</div>
             <img className='card-image' src={props.img}/>
-            
+            //tag I don't know {props.openSpots=== 0 && display the image}
             <div className="card-info">
                 <div className="star">
                     <img className="star-img" src={Star}/>
