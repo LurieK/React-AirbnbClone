@@ -1,6 +1,6 @@
 import Katie_Zaferes from "./img/Katie_Zaferes.png";
-import Mountain_Bike from "./img/mountain-bike 1.png";
-import Wedding_Photo from "./img/wedding-photography 1.png"
+import Mountain_Bike from "./img/mountain-bike.png";
+import Wedding_Photo from "./img/wedding-photography.png"
 
  const cardData= [
     {
