@@ -1,2 +1,2 @@
 # React-AirbnbClone
-Created with CodeSandbox
+Description of project coming soon! :)
