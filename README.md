@@ -54,7 +54,7 @@ npm start
 
 ## View on CodeSandbox
 
-Or you can view this project on CodeSandbox [here](codesandbox.io/p/github/LurieK/React-AirbnbClone).
+Or you can view this project on CodeSandbox [here](https://codesandbox.io/p/github/LurieK/React-AirbnbClone).
 
 
 ## License
