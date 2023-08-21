@@ -3,7 +3,10 @@
 
 React Airbnb Clone is a React project that simulates the Airbnb experience browsing. It's built using modern React features and provides an interactive way to view different accommodations and experiences.
 
-<img src="Airbnb_clone_preview.png" alt="Example Image" width="300"/>
+
+<div align="center">
+  <img src="Airbnb_clone_preview.png" alt="Example Image" width="300"/>
+</div>
 
 
 ## Technology Used
